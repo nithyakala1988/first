@@ -13,7 +13,7 @@ public class HelloWorld  {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hello Nithya kala Sudhakar");
+		System.out.println("Hello Nithya kala Sudhakar 2");
 	}
 
 }
